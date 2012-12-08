@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="app_name">Remote Image Transmission</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">RIT</string>
+    <string name="camera">Click to start camera</string>
+    <string name="setting">Settings</string>
+    <string name="freq">Frequency: </string>
+    <string name="port">Port:</string>
+    <string name="host">Host: </string>
+    <string name="portval">80</string>
+    <string name="location">Location:  </string>
+    <string name="freqbtn">Search Network</string>
+    <string name="home">Remote image transmission</string>
+    <string name="about">About</string>
+
+    <string-array name="frequencylist">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    
+    <string-array name="timelist">
+        <item>Sec</item>
+        <item>Min</item>
+        <item>Hour</item>
+    </string-array>
+
+    <string name="network">Network</string>
+    <string name="back">Back</string>
+    <string name="capture">Capture</string>
+    <string name="title_activity_camera_control">Camera Control</string>
+	
+    <string name="protocol">Protocol: </string>
+    <string-array name="protocollist">
+        <item>HTTP</item>
+        <item>HTTPS</item>
+    </string-array>
+    
+	<string name="destination">Destination: </string>
+	<string-array name="destinationlist">
+        <item>Save to sd card only</item>
+        <item>Send to server only</item>
+    </string-array>
+    
+	<string name="resolution">Resolution: </string>
+	<string-array name="picturesize">
+        <item>2048 X 1536</item>
+    </string-array>
+    
+</resources>
