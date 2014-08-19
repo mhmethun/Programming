@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFDiffContract", "WCFDiffContract\WCFDiffContract.csproj", "{D16E26E2-C679-4365-849B-C7D621870BB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceHost", "WCFServiceHost\WCFServiceHost.csproj", "{3FA3ECBC-19D1-4FD5-98C8-0C088A3F6574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPClient", "HTTPClient\HTTPClient.csproj", "{BA5A3CC3-E0BF-481F-98C1-F824C1C22D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFPrivateForm", "WCFPrivateForm\WCFPrivateForm.csproj", "{9E8F5C38-B913-441E-9162-310EA51FFD5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D16E26E2-C679-4365-849B-C7D621870BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16E26E2-C679-4365-849B-C7D621870BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16E26E2-C679-4365-849B-C7D621870BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16E26E2-C679-4365-849B-C7D621870BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA3ECBC-19D1-4FD5-98C8-0C088A3F6574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA3ECBC-19D1-4FD5-98C8-0C088A3F6574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA3ECBC-19D1-4FD5-98C8-0C088A3F6574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA3ECBC-19D1-4FD5-98C8-0C088A3F6574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5A3CC3-E0BF-481F-98C1-F824C1C22D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5A3CC3-E0BF-481F-98C1-F824C1C22D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5A3CC3-E0BF-481F-98C1-F824C1C22D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5A3CC3-E0BF-481F-98C1-F824C1C22D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E8F5C38-B913-441E-9162-310EA51FFD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8F5C38-B913-441E-9162-310EA51FFD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8F5C38-B913-441E-9162-310EA51FFD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8F5C38-B913-441E-9162-310EA51FFD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
